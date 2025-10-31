@@ -1,0 +1,11 @@
+# .NET Core build outputs
+bin/
+obj/
+
+# macOS
+.DS_Store
+
+
+
+
+
